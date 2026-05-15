@@ -20,7 +20,7 @@ Star Survivor is a one-thumb arcade survivor game where you pilot a lone craft a
 
 For bug reports, questions, feedback, or anything else, email:
 
-📧 **[email protected]**
+📧 **aeagam3@gmail.com**
 
 We aim to respond within a few business days.
 
